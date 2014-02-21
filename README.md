@@ -1,7 +1,7 @@
 Υπολογισμός Εύρους DJIA
 =====================
 
-Το αρχείο ... περιέχει τις τιμές του δίκτη Dow Jones (Dow Jones
+Το αρχείο [DJIA.csv][https://github.com/louridas/assigmnent-1/blob/master/DJIA.csv]  περιέχει τις τιμές του δίκτη Dow Jones (Dow Jones
 Industrial Average, DJIA) από τη δημιουργία του στις 26/05/1896 μέχρι
 τις 19/02/2014.
 
