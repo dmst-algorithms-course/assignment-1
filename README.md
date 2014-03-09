@@ -65,8 +65,8 @@ Industrial Average, DJIA) από τη δημιουργία του στις 26/05
     απαιτήθηκε σε χιλιοστά του δευτερολέπτου  για αυτό. Συνολικά
     λοιπόν η έξοδος του προγράμματος θα πρέπει να είναι όπως:
      ```
-     Naive implementation took: 6142599 millis
-     Stack implementation took: 161808 millis    
+     Naive implementation took: 6133 millis
+     Stack implementation took: 146 millis    
      ```
     Φυσικά οι πραγματικοί χρόνοι θα είναι διαφορετικοί, αλλά τα μηνύματα θα
     πρέπει να είναι ακριβώς της παραπάνω μορφής.
